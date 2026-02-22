@@ -1,0 +1,15 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Shield Background -->
+  <path d="M100 10 L180 50 L180 110 Q180 160 100 190 Q20 160 20 110 L20 50 Z" 
+        fill="#1a1a1a" stroke="#00ff41" stroke-width="3"/>
+  
+  <!-- Terminal Prompt Icon -->
+  <text x="50" y="120" font-family="monospace" font-size="40" fill="#00ff41">&gt;_</text>
+  
+  <!-- Lock Symbol -->
+  <rect x="85" y="70" width="30" height="25" rx="3" fill="none" stroke="#00ff41" stroke-width="2"/>
+  <path d="M90 70 V60 Q90 55 100 55 Q110 55 110 60 V70" fill="none" stroke="#00ff41" stroke-width="2"/>
+  
+  <!-- Linux Penguin Silhouette (simplified) -->
+  <circle cx="100" cy="145" r="12" fill="#00ff41"/>
+</svg>
